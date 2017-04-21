@@ -1,6 +1,6 @@
 # arduino-threads
 
-A library to emulate threads on Arduino and other platforms without native threads.
+A library to emulate threads on Arduino and other platforms without native threads, based on [Roman Black's work](http://www.romanblack.com/PICthread.htm).
 
 You can see a working example in `test.cpp`.
 
